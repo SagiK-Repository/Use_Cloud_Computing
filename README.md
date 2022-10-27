@@ -9,7 +9,7 @@
 - 클라우딩 컴퓨터에서 제공하는 다양한 기능을 활용해본다.
 
 ### 목표
-- [ ] : [구름 IDE 활용해보기]
+- [ ] : [구름 IDE 활용해보기](https://github.com/SagiK-Repository/Use_Cloud_Computing/blob/main/%EA%B5%AC%EB%A6%84%20IDE%20%ED%99%9C%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0.md)
 - [ ] : [구글 클라우드 컴퓨팅 활용해보기]
 - [ ] : [Amazon Cloud9 활용해보기]
 
