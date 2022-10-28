@@ -7,6 +7,7 @@
 
 ### 목표
 - [ ] : 구름 IDE?
+- [ ] : 구름 IDE 사양
 - [ ] : 구름 IDE 활용해보기
 - [ ] : 
 
@@ -28,7 +29,7 @@
 
 <br><br><br>
 
-# 구름 IDE 활용해보기
+# 구름 IDE 사양
 
 구름 IDE로 다음 언어를 활용해 볼 수 있다.  
 <img src="https://user-images.githubusercontent.com/66783849/198337940-901baa4e-0259-41c0-b23a-e263d71a7274.png" width="450">  
@@ -44,3 +45,12 @@
   - MySQL, mysql-ctl
   - MongoDB
 - VSCode는 유료 플랜에서 활용할 수 있다.
+
+<br><br><br>
+
+# 구름 IDE 활용해보기
+
+<img src="https://user-images.githubusercontent.com/66783849/196075154-5cb59b1c-3284-48fc-9844-42c820221d59.png" width="350">
+
+- [goormide 사이트](https://ide.goorm.io/)에 가입 > 메인화면 > 대시보드(또는 콘솔로 가기) > + 새 컨테이너 > 이름 및 기타 설정 > 소프트웨어 스택 : Blank 선택 > 생성하기 > 터미널 실행 > 가상 리눅스가 만들어지고, 브라우저에서 바로 할용할 수 있다.  
+  <img src="https://user-images.githubusercontent.com/66783849/196077023-c761ed98-e913-4730-ab29-9135ef5612f3.png" width="450">
